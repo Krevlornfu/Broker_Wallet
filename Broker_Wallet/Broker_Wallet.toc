@@ -1,0 +1,19 @@
+## Interface: 90105
+## X-Min-Interface: 90105
+## X-Min-Interface-Classic: 11400
+## X-Min-Interface-BCC: 20502
+
+## Title: Broker_Wallet
+## Author: Krevlorn
+## Co-Authors: Torhal, Arkayenro and fresh_meatz on Curseforge for the Slands fix
+## Version: 9.0.1
+## Notes: Simple Currency display for LDB.
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: Delayed
+
+LibStub.lua
+CallbackHandler-1.0.lua
+LibDataBroker-1.1.lua
+
+Broker_Wallet.lua
