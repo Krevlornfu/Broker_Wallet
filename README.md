@@ -15,4 +15,4 @@ Special thanks to Torhal and Arkayenro. Extra special thanks to Curseforge user 
 
  
 
-***Updated for Shadowlands patch 9.1.5***
+***Updated for Shadowlands patch 9.2.0***
